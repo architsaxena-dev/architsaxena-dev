@@ -14,4 +14,4 @@
 
 🛠 Tech Stack & Tools
 📊 GitHub Stats
-📬 Connect with me: LinkedIn | Email: architsaxena-dev@example.com
+📬 Connect with me: Email: architsaxena.delhi@gmail.com
