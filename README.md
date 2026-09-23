@@ -6,6 +6,7 @@
 | |   \___ \| |_) | |    | |    | |_) | |  | |  
 | |___ ___) |  __/| |___ | |    |  _ <| |  | |  
  \____|____/|_|    \____|___|   |_| \_\___| |_|
+```
 
 🎓 About Me
 🔭 Degree: B.Tech in Computer Science & Engineering @ Manipal University Jaipur
