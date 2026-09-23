@@ -17,10 +17,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Archit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=architsaxena-dev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architsaxena-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=architsaxena-dev&label=Profile%20Views&color=00599c&style=for-the-badge)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/architsaxena-dev/architsaxena-dev?style=for-the-badge&color=3776ab)
 
 ---
 
